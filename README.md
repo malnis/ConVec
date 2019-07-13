@@ -1,5 +1,7 @@
 # ConVec: Vector Embedding of Wikipedia Concepts and Entities
 
+In this project, we use skip-gram model to embed Wikipedia Concepts and Entities. The English version of Wikipedia contains more than five million pages, which suggest its capability to cover many English Entities, Phrases, and Concepts. Each Wikipedia page is considered as a concept. 
+
 WikipediaParser folder contains the code to extract and prepare the Wikipedia dump.
 
 Please find in the following, link the pre-traind Concept, Word and Entitie vectors (as a result of this project): 
